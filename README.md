@@ -5,12 +5,16 @@
 ---
 
 My name is SeungEun Kang. 
+
 I’m **Undergraduate Student** in the **Kyonggi University,** 
+
 Division of AI Computer Science & Engineering,  Computer Science Engineering .
+
 **My research interests** include
- **Recommender System(RecSys)** and **Internet of Things(IoT)**.
-I’m **undergraduate researcher** 
-in the **Smart IoT Lab@ **KGU [[link](https://netlab.kyonggi.ac.kr/)]**.
+
+**Recommender System(RecSys)** and **Internet of Things(IoT)**.
+
+I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://netlab.kyonggi.ac.kr/)]**.
 
 ### Contact me
 
