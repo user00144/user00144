@@ -5,16 +5,12 @@
 ---
 
 My name is SeungEun Kang. 
-
 I’m **Undergraduate Student** in the **Kyonggi University,** 
-
 Division of AI Computer Science & Engineering,  Computer Science Engineering .
-
 **My research interests** include
+ ***Large Language Models(LLMs)*** and ***Internet of Things(IoT).***
+I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://netlab.kyonggi.ac.kr/)].**
 
-**Recommender System(RecSys)** and **Internet of Things(IoT)**.
-
-I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://netlab.kyonggi.ac.kr/)]**.
 
 ### Contact me
 
@@ -35,34 +31,82 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 
 ## B.S : Kyonggi University
 
-  Suwon, Republic of Korea (Feb 2020 ~ Feb 2026, expected)
+  Suwon, Republic of Korea (**Feb 2020 ~ Feb 2027**, **expected**)
 
-  Junior , Computer Science Engineering , **GPA(4.33 /** 4.5**)  / in-major(4.33 / 4.5)
+  **Junior** , Computer Science Engineering , GPA(4.33 / 4.5)  / in-major(4.33 / 4.5)
 
   Thesis :  .
 
 ---
 
-# 🎓 Research Experiences
+# 🔍 Research Experiences
 
 ---
 
-### Smart IoT Lab , Kyonggi University (Jul 2023 ~ Present)
+### Smart IoT Lab : Kyonggi University
 
- Undergraduate Researcher 
+ **Undergraduate Researcher , Jul 2023 ~ Present**
 
-- **Currently Research Area : Recommendation System, Artificial Intelligence with Internet of Things**
-- **Seminars held every week**
+- Working on variable personal & team projects
+- Experience in building deep learning servers ( Using **Docker**, **Linux** )
+- Experience in writing several conference papers ( Domestic, International )
 
+### K-Software Empowerment bootcamp
+
+**Trainee , Dec 2023 ~ Nov 2024**
+
+SW Specialized Talent Training Program & MSIT & IITP ( [link](https://kebkyonggi.quv.kr) )
+
+- 210 hours of training about background knowledge to work on project
+- 400 hours of R&D Project Experience ( Jun 2024 ~ Aug 2024 )
+
+### 2024 K-SW Square  Fall Program @ Purdue University
+
+**Student Intern , Sep 2024 ~ Dec 2024**
+
+SW Centered University Program & Purdue University & IITP
+
+- Global Capstone Design Project in Purdue University
+
+---
+
+# 📄 Publications
+
+---
+
+### International Conferences
+
+- S Kang, N Kim*, “**A Study on User Review text–Based Rating prediction system Using Large Lange Model Finetuning**”, *19th Asia Pacific International Conference on Information Science and Technology*, June. 2024 ([Poster](https://drive.google.com/file/d/1YLVw6sgjBlaHF4Yyy-IJ7M1FGBALVMTF/view?usp=share_link))
+
+### International journals
+
+.
+
+### Domestic Conferences
+
+- **S Kang** , N Kim* , “**Using Raspberry Pi and MNIST Dataset A study on handwriting images classification in an on-device environment**” , *Korean Society For Internet Information Spring Conference* , Apr. 2024 ([Poster](https://drive.google.com/file/d/1BgcvG3kA7U0VI-KQzcHYQqIPO5ovPm3L/view?usp=drive_link))
+- **S Kang** , N Kim* , “**Using activation function and ko-BERT Research of Click-bait Detection**” , *Korean Society For Internet Information Spring Conference* , Apr. 2024 ([Poster](https://drive.google.com/file/d/115gUfmaNk2R9EhooOPKCI5HhTQLJC9ps/view?usp=drive_link))
+- **S Kang**, E Park, G Park, J Park, K Park, Y Moon, N Kim* , “**BELIEVE : Vision-Based Edge Intelligence System for Safety Management on Industrial Environment**”, *Korean Institute of Information Technology Summer Conference*, May. 2024 ([Poster](https://drive.google.com/file/d/1HCnWueAUo6fVNVpQvq6ZnHvBQBef_QdA/view?usp=sharing))
+
+### Domestic journals
+
+.
+---
 
 # 🏆 Awards & **Certifications**
 
 ---
 
-- **Scholarship for Academic Excelience** (2nd semester, 2020 ), Kyonggi University, Korea
-- **Scholarship for Academic Excelience** (2nd semester, 2023 ), Kyonggi University, Korea
-- **Certified Software Test Specialist** (CSTS) Foundation Level (Mar. 2023)
-- **Scholarship for Academic Excelience** (1st semester, 2024 ), Kyonggi University, Korea
+### Scholarships
+
+- **Scholarship for Academic Excelience** (2nd semester, 2020 ), Kyonggi University
+- **Scholarship for Academic Excelience** (2nd semester, 2023 ), Kyonggi University
+- **Scholarship for Academic Excelience** (1st semester, 2024 ), Kyonggi University
+
+### Certifications
+
+- **Certified Software Test Specialist Foundation Level** (certified from TTA, Mar. 2023)
+- **Test Of Practical Competency in IT | 278** (certified from IITP, May. 2023)
 
 ---
 
@@ -78,22 +122,13 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
----
 ## Software Stack
----
- ### Expert
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
----
- ### Advanced
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
----
- ### Basic
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-
 ---
-
