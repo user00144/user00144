@@ -103,6 +103,10 @@ SW Centered University Program & Purdue University & IITP
 - **Scholarship for Academic Excelience** (2nd semester, 2023 ), Kyonggi University
 - **Scholarship for Academic Excelience** (1st semester, 2024 ), Kyonggi University
 
+### Awards
+
+- **Best Paper Award(Gold prize)** in Korean Institute of Information Technology Summer Conference (May. 2024)
+
 ### Certifications
 
 - **Certified Software Test Specialist Foundation Level** (certified from TTA, Mar. 2023)
