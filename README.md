@@ -4,11 +4,11 @@
 
 ---
 
-My name is SeungEun Kang. 
-I’m **Undergraduate Student** in the **Kyonggi University,** 
-Division of AI Computer Science & Engineering,  Computer Science Engineering .
-**My research interests** include
- ***Large Language Models(LLMs)*** and ***Internet of Things(IoT).***
+My name is SeungEun Kang. </br>
+I’m **Undergraduate Student** in the **Kyonggi University,** </br>
+Division of AI Computer Science & Engineering,  Computer Science Engineering . </br>
+**My research interests** include </br>
+ ***Large Language Models(LLMs)*** and ***Internet of Things(IoT).*** </br>
 I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://netlab.kyonggi.ac.kr/)].**
 
 
