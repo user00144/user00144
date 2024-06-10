@@ -27,8 +27,6 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 
 # 🎓 Education
 
----
-
 ## B.S : Kyonggi University
 
   Suwon, Republic of Korea (**Feb 2020 ~ Feb 2027**, **expected**)
@@ -40,8 +38,6 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 ---
 
 # 🔍 Research Experiences
-
----
 
 ### Smart IoT Lab : Kyonggi University
 
@@ -68,15 +64,14 @@ SW Centered University Program & Purdue University & IITP
 
 - Global Capstone Design Project in Purdue University
 
+
 ---
 
 # 📄 Publications
 
----
-
 ### International Conferences
 
-- S Kang, N Kim*, “**A Study on User Review text–Based Rating prediction system Using Large Lange Model Finetuning**”, *19th Asia Pacific International Conference on Information Science and Technology*, June. 2024 ([Poster](https://drive.google.com/file/d/1YLVw6sgjBlaHF4Yyy-IJ7M1FGBALVMTF/view?usp=share_link))
+- **S Kang**, N Kim*, “**A Study on User Review text–Based Rating prediction system Using Large Lange Model Finetuning**”, *19th Asia Pacific International Conference on Information Science and Technology*, June. 2024 ([Poster](https://drive.google.com/file/d/1YLVw6sgjBlaHF4Yyy-IJ7M1FGBALVMTF/view?usp=share_link))
 
 ### International journals
 
@@ -86,7 +81,7 @@ SW Centered University Program & Purdue University & IITP
 
 - **S Kang** , N Kim* , “**Using Raspberry Pi and MNIST Dataset A study on handwriting images classification in an on-device environment**” , *Korean Society For Internet Information Spring Conference* , Apr. 2024 ([Poster](https://drive.google.com/file/d/1BgcvG3kA7U0VI-KQzcHYQqIPO5ovPm3L/view?usp=drive_link))
 - **S Kang** , N Kim* , “**Using activation function and ko-BERT Research of Click-bait Detection**” , *Korean Society For Internet Information Spring Conference* , Apr. 2024 ([Poster](https://drive.google.com/file/d/115gUfmaNk2R9EhooOPKCI5HhTQLJC9ps/view?usp=drive_link))
-- **S Kang**, E Park, G Park, J Park, K Park, Y Moon, N Kim* , “**BELIEVE : Vision-Based Edge Intelligence System for Safety Management on Industrial Environment**”, *Korean Institute of Information Technology Summer Conference*, May. 2024 ([Poster](https://drive.google.com/file/d/1HCnWueAUo6fVNVpQvq6ZnHvBQBef_QdA/view?usp=sharing)) 🏆
+- 🏆 **S Kang**, E Park, G Park, J Park, K Park, Y Moon, N Kim* , “**BELIEVE : Vision-Based Edge Intelligence System for Safety Management on Industrial Environment**”, *Korean Institute of Information Technology Summer Conference*, May. 2024 ([Poster](https://drive.google.com/file/d/1HCnWueAUo6fVNVpQvq6ZnHvBQBef_QdA/view?usp=sharing)) 
 
 ### Domestic journals
 
@@ -95,8 +90,6 @@ SW Centered University Program & Purdue University & IITP
 ---
 
 # 🏆 Awards & **Certifications**
-
----
 
 ### Scholarships
 
@@ -107,6 +100,7 @@ SW Centered University Program & Purdue University & IITP
 ### Awards
 
 - **Best Paper Award(Gold prize)** in Korean Institute of Information Technology Summer Conference (May. 2024)
+- **Excellence Award** in Basic Capstone Design Competition, Kyonggi University (Jun. 2024)
 
 ### Certifications
 
@@ -117,7 +111,6 @@ SW Centered University Program & Purdue University & IITP
 
 # 💡 Skills & Techniques
 
----
 ## Programming Language
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -136,4 +129,11 @@ SW Centered University Program & Purdue University & IITP
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+
 ---
+
+
+
+
+### 🤗 For more information(Teaching & Project Experiences ...) you can visit [**[this(notion CV) page]**](https://steady-bison-0a8.notion.site/SeungEun-Kang-830728379b0d4e1fa8ec057f14fab68a?pvs=4)
