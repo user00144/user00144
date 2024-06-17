@@ -105,7 +105,7 @@ SW Centered University Program & Purdue University & IITP
 ### Certifications
 
 - **Certified Software Test Specialist Foundation Level** (certified from TTA, Mar. 2023)
-- **Test Of Practical Competency in IT | 278** (certified from IITP, May. 2023)
+- **Test Of Practical Competency in IT level 3 | 536** (certified from IITP, May. 2024)
 
 ---
 
