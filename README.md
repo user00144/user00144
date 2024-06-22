@@ -56,15 +56,6 @@ SW Specialized Talent Training Program & MSIT & IITP ( [link](https://kebkyonggi
 - 210 hours of training about background knowledge to work on project
 - 400 hours of R&D Project Experience ( Jun 2024 ~ Aug 2024 )
 
-### 2024 K-SW Square  Fall Program @ Purdue University
-
-**Student Intern , Sep 2024 ~ Dec 2024**
-
-SW Centered University Program & Purdue University & IITP
-
-- Global Capstone Design Project in Purdue University
-
-
 ---
 
 # 📄 Publications
