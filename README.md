@@ -29,9 +29,9 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 
 ## B.S : Kyonggi University
 
-  Suwon, Republic of Korea (**Feb 2020 ~ Feb 2027**, **expected**)
+  Suwon, Republic of Korea (**Feb 2020 ~ Feb 2026**, **expected**)
 
-  **Junior** , Computer Science Engineering , GPA(4.33 / 4.5)  / in-major(4.33 / 4.5)
+  **Junior** , Computer Science Engineering , GPA(4.36 / 4.5)  / in-major(4.38 / 4.5)
 
   Thesis :  .
 
@@ -64,6 +64,8 @@ SW Specialized Talent Training Program & MSIT & IITP ( [link](https://kebkyonggi
 
 - **S Kang**, N Kim*, “**A Study on User Review text–Based Rating prediction system Using Large Lange Model Finetuning**”, *19th Asia Pacific International Conference on Information Science and Technology*, June. 2024 ([Poster](https://drive.google.com/file/d/1YLVw6sgjBlaHF4Yyy-IJ7M1FGBALVMTF/view?usp=share_link))
 
+- **S Kang**, K Jin, N kim*, “**Research on Memory-efficient Approach to Sleep Quality Estimation for Edge Devices**”, *The 15th International Conference on ICT Convergence*, Oct. 2024
+
 ### International journals
 
 .
@@ -87,6 +89,7 @@ SW Specialized Talent Training Program & MSIT & IITP ( [link](https://kebkyonggi
 - **Scholarship for Academic Excelience** (2nd semester, 2020 ), Kyonggi University
 - **Scholarship for Academic Excelience** (2nd semester, 2023 ), Kyonggi University
 - **Scholarship for Academic Excelience** (1st semester, 2024 ), Kyonggi University
+- **Scholarship for Academic Excelience** (2nd semester, 2024 ), Kyonggi University
 
 ### Awards
 
