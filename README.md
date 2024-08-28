@@ -48,7 +48,6 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 ### K-Software Empowerment bootcamp
 **Trainee , Dec 2023 ~ Nov 2024**
 - 210 hours of training about background knowledge to work on project
-- 400 hours of R&D Project Experience ( Jun 2024 ~ Aug 2024 )
 
 ### Lotte Innovate AI Tech Team : LOTTE
 **Research Intern, Jul 2024 ~ Aug 2024**
