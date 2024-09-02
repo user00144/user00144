@@ -1,9 +1,8 @@
 Greetings, My name is SeungEun Kang. </br>
-I’m **Undergraduate Student** in the **Kyonggi University,** </br>
-Division of AI Computer Science & Engineering,  Computer Science Engineering . </br>
+I’m **Undergraduate Student** in the **Kyonggi University,** majoring Computer Engineering. </br>
 **My research interests** include </br>
  ***Edge Intelligence*** and ***AI with Internet of Things(AIoT).*** </br>
-I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU.
+I’m **undergraduate researcher** in the Smart IoT Lab @ KGU.
 
 ### About me
 > **CV(Github Pages) : [https://user00144.github.io](https://user00144.github.io)**
