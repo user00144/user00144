@@ -8,11 +8,11 @@ I’m **undergraduate researcher** in the Smart IoT Lab @ KGU.
 
 ### About me
 
-**You can get information about me on my [github pages](https://user00144.github.io) or as a [PDF](https://drive.google.com/file/d/1QLquiGEtClv1oiT_LzyrtmvjsU98tQ_r/view?usp=sharing)**.
+**You can get information about me on my [github pages](https://user00144.github.io) or as a [PDF](https://drive.google.com/file/d/1EmQIyJdKbTv-4erd6gFxaomx6bupn5XN/view?usp=sharing)**.
 
 > **CV(Github Pages) : [https://user00144.github.io](https://user00144.github.io)**
 
-> **CV(pdf) : [Download PDF](https://drive.google.com/file/d/1QLquiGEtClv1oiT_LzyrtmvjsU98tQ_r/view?usp=sharing)**
+> **CV(pdf) : [Download PDF](https://drive.google.com/file/d/1EmQIyJdKbTv-4erd6gFxaomx6bupn5XN/view?usp=sharing)**
 
 ---
 
