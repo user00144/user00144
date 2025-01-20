@@ -8,9 +8,9 @@ I’m **undergraduate researcher** in the Smart IoT Lab @ KGU.
 
 ### About me
 
-**You can get information about me on my [github pages](https://user00144.github.io) or as a [PDF](https://drive.google.com/file/d/1JAPlO-x2AUq4SWU8RDbC2H6VGv5EhClF/view?usp=sharing)**.
+**You can get information about me on my [Google sites](https://sites.google.com/kyonggi.ac.kr/seungeunkang) or as a [PDF](https://drive.google.com/file/d/1JAPlO-x2AUq4SWU8RDbC2H6VGv5EhClF/view?usp=sharing)**.
 
-> **CV(Github Pages) : [https://user00144.github.io](https://user00144.github.io)**
+> **CV(Google sites) : [https://sites.google.com/kyonggi.ac.kr/seungeunkang]**
 
 > **CV(pdf) : [Download PDF](https://drive.google.com/file/d/1JAPlO-x2AUq4SWU8RDbC2H6VGv5EhClF/view?usp=sharing)**
 
