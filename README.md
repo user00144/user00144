@@ -10,11 +10,11 @@ I'm currently working as research intern at ETRI (Jan. 2025 - Feb. 2025).
 
 ### About me
 
-**You can get information about me on my [Personal website](https://sites.google.com/kyonggi.ac.kr/seungeunkang) or as a [PDF](https://github.com/user00144/user00144/blob/main/CV/CV_250122.pdf)**.
+**You can get information about me on my [Personal website](https://sites.google.com/kyonggi.ac.kr/seungeunkang) or as a [PDF](https://github.com/user00144/user00144/blob/main/CV_en.pdf)**.
 
 > **Personal website(Resume) : [https://sites.google.com/kyonggi.ac.kr/seungeunkang]**
 
-> **CV(pdf) : [Download PDF](https://github.com/user00144/user00144/blob/main/CV/CV_250122.pdf)**
+> **CV(pdf) : [Download PDF](https://github.com/user00144/user00144/blob/main/CV_en.pdf)**
 
 ---
 
