@@ -2,9 +2,12 @@ Greetings, My name is SeungEun Kang. </br>
 I’m **Undergraduate Student** in the **Kyonggi University,** majoring Computer Engineering. </br>
 **My research interests** include </br>
  ***Large Language Models*** and ***Mobile Computing*** with ***Human-Computer-Interaction*** </br>
-I was undergraduate researcher in the Smart IoT Lab at Kyonggi University (Jul. 2023 - Dec. 2024).</br>
-I also have experience working as research intern at LOTTE Innovate. (Jul. 2024 - Aug. 2024). </br>
-I'm currently working as research intern at ETRI (Jan. 2025 - Feb. 2025).
+
+
+ **Research Experience**
+- Research intern at *ETRI Social Robotics Lab (Jan. 2025 - Feb. 2025)*. </br>
+- Research intern at *LOTTE INNOVATE AI Tech. Team (Jul. 2024 - Aug. 2024)*. </br>
+- Undergraduate researcher at *Smart IoT Lab , Kyonggi University (Jul. 2023 - Dec. 2024)*.</br>
 
 ---
 
