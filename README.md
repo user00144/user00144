@@ -5,6 +5,7 @@ I’m **Undergraduate Student** in the **Kyonggi University,** majoring Computer
 
 
  **Research Experience**
+- Undergraduate researcher at *Cognitive Computing Lab, Seoul National University (Mar. 2025 ~)* </br>
 - Research intern at *ETRI Social Robotics Lab (Jan. 2025 - Feb. 2025)*. </br>
 - Research intern at *LOTTE INNOVATE AI Tech. Team (Jul. 2024 - Aug. 2024)*. </br>
 - Undergraduate researcher at *Smart IoT Lab , Kyonggi University (Jul. 2023 - Dec. 2024)*.</br>
