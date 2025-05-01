@@ -14,11 +14,11 @@ I’m **Undergraduate Student** in the **Kyonggi University,** majoring Computer
 
 ### About me
 
-**You can get information about me on my [Portfolio(Korean)](https://github.com/user00144/user00144/blob/main/portfolio/portfolio_kr.pdf) or as a [CV(English)](https://github.com/user00144/user00144/blob/main/CV_en.pdf)**.
+**You can get information about me on my [Portfolio(Korean)](https://drive.google.com/file/d/1bbTq-gFGirOjABU1mlNUSiW1pmJuLxaM/view?usp=share_link) or as a [CV(English)](https://drive.google.com/file/d/1pito4zBi6kMgd9lcCP_nd-Ic8brwgDAV/view?usp=share_link)**.
 
-> **Portfolio(Korean) : [Download PDF](https://github.com/user00144/user00144/blob/main/portfolio/portfolio_kr.pdf)**
+> **Portfolio(Korean) : [Download PDF](https://drive.google.com/file/d/1bbTq-gFGirOjABU1mlNUSiW1pmJuLxaM/view?usp=share_link)**
 
-> **CV(English) : [Download PDF](https://github.com/user00144/user00144/blob/main/CV_en.pdf)**
+> **CV(English) : [Download PDF](https://drive.google.com/file/d/1pito4zBi6kMgd9lcCP_nd-Ic8brwgDAV/view?usp=share_link)**
 
 ---
 
