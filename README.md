@@ -12,16 +12,6 @@ I’m **Undergraduate Student** in the **Kyonggi University,** majoring Computer
 
 ---
 
-### About me
-
-**You can get information about me on my [Portfolio(Korean)](https://drive.google.com/file/d/1bbTq-gFGirOjABU1mlNUSiW1pmJuLxaM/view?usp=share_link) or as a [CV(English)](https://drive.google.com/file/d/1pito4zBi6kMgd9lcCP_nd-Ic8brwgDAV/view?usp=share_link)**.
-
-> **Portfolio(Korean) : [Download PDF](https://drive.google.com/file/d/1bbTq-gFGirOjABU1mlNUSiW1pmJuLxaM/view?usp=share_link)**
-
-> **CV(English) : [Download PDF](https://drive.google.com/file/d/1pito4zBi6kMgd9lcCP_nd-Ic8brwgDAV/view?usp=share_link)**
-
----
-
 ### Contact me
 
 > **Ⓜ️ Email:  [haun620@kyonggi.ac.kr](mailto://haun620@kyonggi.ac.kr)**
