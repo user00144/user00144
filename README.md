@@ -15,9 +15,9 @@ I’m **Undergraduate Student** in the **Kyonggi University,** majoring Computer
 
 ### About me
 
-**You can get information about me on my [Portfolio(Korean)](https://drive.google.com/file/d/1bbTq-gFGirOjABU1mlNUSiW1pmJuLxaM/view?usp=share_link) or as a [CV(English)](https://drive.google.com/file/d/1ic4pO7QmBoThDBApngSMUhkUCT4-5NWM/view?usp=sharing)**.
+**You can get information about me on my [Portfolio(Korean)](https://drive.google.com/file/d/1SyHQjYBcqkguKnC6EqW4bwZDnJ5RkHrS/view?usp=share_link) or as a [CV(English)](https://drive.google.com/file/d/1ic4pO7QmBoThDBApngSMUhkUCT4-5NWM/view?usp=sharing)**.
 
-> **포트폴리오(한글) : [프로젝트 포트폴리오](https://drive.google.com/file/d/1bbTq-gFGirOjABU1mlNUSiW1pmJuLxaM/view?usp=share_link)**
+> **포트폴리오(한글) : [프로젝트 포트폴리오](https://drive.google.com/file/d/1SyHQjYBcqkguKnC6EqW4bwZDnJ5RkHrS/view?usp=share_link)**
 
 > **CV(English) : [Download CV](https://drive.google.com/file/d/1ic4pO7QmBoThDBApngSMUhkUCT4-5NWM/view?usp=sharing)**
 
